@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Front-end Web Developer 💻
+
+Studying machine learning for my project and TCC 📱
+
+Passionate about Games, Music and Geek Culture 🎮🎵
+
+Photo and video editing are my hobbies 🎞🖼
+
 <!--
 **kaiofbgarcia/kaiofbgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
