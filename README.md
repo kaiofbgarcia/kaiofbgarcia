@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![CapaGit](https://user-images.githubusercontent.com/50223968/162074549-5a1c4229-0e6b-4b65-9b0e-23a7448ffd2b.jpg)
+
 I'm Front-end Web Developer 💻
 
 Studying machine learning for my project and TCC 📱
