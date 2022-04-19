@@ -4,6 +4,8 @@
 
 I'm Kaio Garcia a Front-end Web Developer 💻
 
+Studying Computer Science - Last Year - UENP CLM
+
 Studying machine learning for my project and TCC 📱
 
 Passionate about Games, Music and Geek Culture 🎮🎵
