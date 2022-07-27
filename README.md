@@ -1,6 +1,6 @@
 ### Hello There!! I'm Kaio Garcia 👋
 
-💻 Front-end Web Developer <br/>
+💻 Front-End Developer <br/>
 📚 Studying Computer Science <br/>
 🎵 Passionate about Games, Music and Geek Culture <br/>
 🎞 Photo and video editing are my hobbies
