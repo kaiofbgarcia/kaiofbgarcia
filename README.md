@@ -1,7 +1,7 @@
 ### Hello There!! I'm Kaio Garcia 👋
 
 💻 Front-End Developer <br/>
-📚 Studying Computer Science <br/>
+📚 Studying Bachelor Computer Science <br/>
 🎵 Passionate about Games, Music and Geek Culture <br/>
 🎞 Photo and video editing are my hobbies
 
