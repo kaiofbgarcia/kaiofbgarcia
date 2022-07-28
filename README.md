@@ -28,10 +28,10 @@
     <a href="https://twitter.com/SrKaiohFelipe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     <a href = "mailto:contato.kaiofbgarcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kaio-felipe-barbosa-garcia-912461196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://kaiofbgarcia.github.io/MyPersonalSite/" target="_blank"><img src="https://img.shields.io/badge/-Personal site-B71C1C?style=for-the-badge&logoColor=white" target="_blank"></a> 
+    <a href="https://kaiofbgarcia.github.io/MyPersonalSite/" target="_blank"><img src="https://img.shields.io/badge/-Personal site-B71C1C?style=for-the-badge&logoColor=white" target="_blank"></a> <br/> <br/>
+    <img  width="200" heigth="200" src="imagem1.gif">
 </div>
 
-##
 
 * Thanks for visiting <br/>
 * Enjoy it!!
