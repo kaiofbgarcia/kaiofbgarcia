@@ -1,9 +1,9 @@
 ### Hello There!! I'm Kaio Garcia 👋
 
 💻 Front-End Developer <br/>
-📚 Studying Bachelor Computer Science <br/>
-🎵 Passionate about Games, Music and Geek Culture <br/>
-🎞 Photo and video editing are my hobbies
+📚 Bachelor in Computer Science <br/>
+🎵 Passionate about Games, Music, Basketball and Geek Culture <br/>
+📆 Always looking for new challenges
 
 <div align="center">
     <a href="https://instagram.com/kaio_garcia_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
