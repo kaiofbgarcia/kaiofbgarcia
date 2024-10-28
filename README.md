@@ -1,44 +1,37 @@
-### Hello There!! I'm Kaio Garcia 👋
+# 💫 About Me:
+Hello There!! I'm Kaio Garcia 👋<br>💻 Front-End Developer<br>📚 Bachelor's degree in Computer Science<br>🎵 Passionate about Games, Music, Basketball and Geek Culture<br>📆 Always looking for new challenges
 
-💻 Front-End Developer, and sooner Full-Stack <br/>
-📚 Bachelor's degree in Computer Science <br/>
-🎵 Passionate about Games, Music, Basketball and Geek Culture <br/>
-📆 Always looking for new challenges
 
-<div align="center">
-    <!-- RESUME -->
-    <a href="https://docs.google.com/document/d/1NMUSkYi68OEOKu2_zcFcJXpfHf44o6GqMcSTPGQWjPg/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-B71C1C?style=for-the-badge&logoColor=white" target="_blank"></a>
-    <!-- GMAIL -->
-    <a href = "mailto:kaiofbgarcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <!-- INSTAGRAM -->
-    <a href="https://instagram.com/kaio_garcia_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <!-- LINKEDIN -->
-    <a href="https://www.linkedin.com/in/kaio-felipe-barbosa-garcia-912461196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!--     <a href="https://www.canva.com/design/DAFbmH5TLrA/60WXEK9wuU6CKLu1ZftmqA/edit?utm_content=DAFbmH5TLrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/-Currículo_PDF-B71C1C?style=for-the-badge&logoColor=white" target="_blank"></a> -->
-<!--     <a href="https://kaiofbgarcia.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Personal site-B71C1C?style=for-the-badge&logoColor=white" target="_blank"></a> <br/> -->
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kaioh9824) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaio_garcia_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/KaiohFG) [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-felipe-barbosa-garcia-912461196/) [![Resume](https://img.shields.io/badge/Resume-%23E4405F.svg?logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1NMUSkYi68OEOKu2_zcFcJXpfHf44o6GqMcSTPGQWjPg/edit?usp=sharing)
 
-##
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/kaiofbgarcia">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiofbgarcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofbgarcia&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<div align="center" style="display: inline_block"><br>
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--    <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> -->
-   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-   <img align="center" alt="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />  
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-##
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- Thanks for visiting <br/>
-- Enjoy it!!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaiofbgarcia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaiofbgarcia&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofbgarcia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kaiofbgarcia&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kaiofbgarcia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaiofbgarcia&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
